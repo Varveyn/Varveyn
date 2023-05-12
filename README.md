@@ -35,6 +35,10 @@ Since I've started to work, I've put a lot of efforts learning to write laconic,
 
 On my free time I enjoy long walks, watching movies, reading sci-fi novels, curious about economics and urban development.
 
+<h3>Achievements</h3>
+
+- 🩸 Blood donations: 8 times as of 11/05/2033.
+
 <h4>Acknowledgements</h4>
 
 Many thanks to [alexandresanlim](https://github.com/alexandresanlim) as I've used their [awesome badges collection](https://github.com/alexandresanlim/Badges4-README.md-Profile) on this page.
