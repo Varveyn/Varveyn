@@ -6,7 +6,7 @@ Hello 👋
 
 I'm Oleksii Kavka, Software Engineer from Ukraine.
 
-I've got the most experience in .NET web development with C#, SQL and JS/TS, but also have some experience with C/C++, Java, Python and even Brainfuck 😆.
+I've got the most experience in .NET web development with C#, SQL and JS/TS, but also have some experience with C/C++, Java, Python and even Brainfuck =)
 
 <p align="center">
   <a href="https://bio.link/varveyn">
@@ -37,7 +37,7 @@ On my free time I enjoy long walks, watching movies, reading sci-fi novels, curi
 
 <h3>Achievements</h3>
 
-- 🩸 Blood donations: 8 times as of 11/05/2033.
+- 🩸 Blood donations: 10 times as of 26/01/2024.
 
 <h4>Acknowledgements</h4>
 
